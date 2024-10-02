@@ -1,7 +1,7 @@
 class sample{
 public static void main(stroing)
 		"
-		hello"
+		hello team"
 		}
 
 }
